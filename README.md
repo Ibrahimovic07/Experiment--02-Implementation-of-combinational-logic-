@@ -1,5 +1,5 @@
 ### Name: MOHAMMED IBRAHIM MN
-### Reg-no:23005104
+### Reg-no:212223100034
 
 # Experiment--02-Implementation-of-combinational-logic
  
